@@ -1,5 +1,5 @@
 
-# Symmetry-Driven Spatial Density (SDSD)
+# Sturm-Liouville-Neural-Networks: Symmetry-Driven Spatial Density (SDSD)
 
 
 Deep learning is characterized as a stochastic geometric phase
