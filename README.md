@@ -1,8 +1,6 @@
 # Symmetry-Driven Spatial Density (SDSD) 
 
-## Overview
-
-SDSD proposes that intelligence in deep learning emerges from symmetry collapse and spatial densification, rather than purely from loss minimization. By modeling neural representations as points in a quotient manifold or fiber bundle,
+Intelligence in deep learning emerges from symmetry collapse and spatial densification, rather than purely from loss minimization. By modeling neural representations as points in a quotient manifold or fiber bundle,
 
 \[
 \pi: \mathcal{S} \to \mathcal{S}/G
