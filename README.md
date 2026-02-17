@@ -1,7 +1,5 @@
-
 # Symmetry-Driven Spatial Density (SDSD) Framework
 
-## 🧠 Abstract
 
 SDSD proposes that intelligence in deep learning emerges from **symmetry collapse** and **spatial densification**, rather than purely from loss minimization. By modeling neural representations as points in a quotient manifold \(\mathcal{S}/G\), we capture **phase transitions** in learning driven by stochastic exploration along symmetry orbits.
 
