@@ -1,4 +1,4 @@
-# Symmetry-Driven Spatial Density (SDSD) Framework
+# Symmetry-Driven Spatial Density (SDSD) 
 
 ## Overview
 
